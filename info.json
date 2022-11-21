@@ -1,0 +1,331 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://zwwx.zzfls.com.cn:9000/",
+            "path": "index.html",
+            "saved": true,
+            "size": 2123,
+            "children": [
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/config.js",
+                    "path": "js/config.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/js/chunk-vendors.1668930616792.js",
+                    "path": "js/chunk-vendors.1668930616792.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/js/app.1668930616792.js",
+                    "path": "js/app.1668930616792.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pv.sohu.com/cityjson?ie=utf-8",
+                    "saved": false
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/babel-polyfill@6.26.0/polyfill.min.js",
+                    "path": "js/polyfill.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/vue@2.6.11/vue.min.js",
+                    "path": "js/vue.min.js",
+                    "saved": true,
+                    "size": 93675,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/axios@0.21.1/axios.min.js",
+                    "path": "js/axios.min.js",
+                    "saved": true,
+                    "size": 14357,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/vue-router@3.2.0/vue-router.min.js",
+                    "path": "js/vue-router.min.js",
+                    "saved": true,
+                    "size": 26682,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/vuex@3.2.0/vuex.min.js",
+                    "path": "js/vuex.min.js",
+                    "saved": true,
+                    "size": 10419,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/crypto-js.js",
+                    "path": "js/crypto-js.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/secret.js",
+                    "path": "js/secret.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/view-design@4.3.2/iview.min.js",
+                    "path": "js/iview.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/echarts@4.8.0/echarts.min.js",
+                    "path": "js/echarts.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/mathjs@7.2.0/math.min.js",
+                    "path": "js/math.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/xlsx/xlsx-style.full.min.js",
+                    "path": "js/xlsx-style.full.min.js",
+                    "saved": true,
+                    "size": 786732,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/xlsx/xlsx.extendscript.js",
+                    "path": "js/xlsx.extendscript.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/v-calendar@2.4.1/v-calendar.umd.min.js",
+                    "path": "js/v-calendar.umd.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/viewerjs/viewer.min.js",
+                    "path": "js/viewer.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/v-viewer/v-viewer.min.js",
+                    "path": "js/v-viewer.min.js",
+                    "saved": true,
+                    "size": 7708,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/ckeditor_4.16.2_full/ckeditor.js",
+                    "path": "js/ckeditor.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/AgoraRTC_N-4.7.3.js",
+                    "path": "js/AgoraRTC_N-4.7.3.js",
+                    "saved": true,
+                    "size": 729137,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/html2canvas.min.js",
+                    "path": "js/html2canvas.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/mobile-detect@1.4.4/mobile-detect.min.js",
+                    "path": "js/mobile-detect.min.js",
+                    "saved": true,
+                    "size": 38942,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/view-design@4.3.2/iview.css",
+                    "path": "css/iview.css",
+                    "saved": true,
+                    "size": 325910,
+                    "children": [
+                        {
+                            "url": "https://zwwx.zzfls.com.cn:9000/librarys/view-design@4.3.2/fonts/ionicons.woff2?v=3.0.0",
+                            "path": "fonts/ionicons.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://zwwx.zzfls.com.cn:9000/librarys/view-design@4.3.2/fonts/ionicons.woff?v=3.0.0",
+                            "path": "fonts/ionicons.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://zwwx.zzfls.com.cn:9000/librarys/view-design@4.3.2/fonts/ionicons.ttf?v=3.0.0",
+                            "path": "fonts/ionicons.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://zwwx.zzfls.com.cn:9000/librarys/view-design@4.3.2/fonts/ionicons.svg?v=3.0.0#Ionicons",
+                            "path": "img/ionicons.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/librarys/viewerjs/viewer.css",
+                    "path": "css/viewer.css",
+                    "saved": true,
+                    "size": 10174,
+                    "children": []
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/iconfont/iconfont.css",
+                    "path": "css/iconfont.css",
+                    "saved": true,
+                    "size": 10325,
+                    "children": [
+                        {
+                            "url": "https://zwwx.zzfls.com.cn:9000/iconfont/iconfont.woff2?t=1668073249717",
+                            "path": "fonts/iconfont.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://zwwx.zzfls.com.cn:9000/iconfont/iconfont.woff?t=1668073249717",
+                            "path": "fonts/iconfont.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://zwwx.zzfls.com.cn:9000/iconfont/iconfont.ttf?t=1668073249717",
+                            "path": "fonts/iconfont.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/theme/haverRed.css",
+                    "path": "css/haverRed.css",
+                    "saved": true,
+                    "size": 10762,
+                    "children": [
+                        {
+                            "url": "https://zwwx.zzfls.com.cn:9000/theme/theme_imag/haverRed/home_jiantou.png",
+                            "path": "img/home_jiantou.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://zwwx.zzfls.com.cn:9000/theme/theme_imag/haverRed/shitilan.png",
+                            "path": "img/shitilan.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://zwwx.zzfls.com.cn:9000/css/app.1668930616792.css",
+                    "path": "css/app.1668930616792.css",
+                    "saved": true,
+                    "size": 19425,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "zwwx-zzfls-com-cn-gm0v7dd",
+    "info": {
+        "remark": [],
+        "title": "",
+        "domain": "zwwx.zzfls.com.cn",
+        "origin": "https://zwwx.zzfls.com.cn:9000",
+        "ip": "39.104.26.78",
+        "main": "index.html",
+        "url": "https://zwwx.zzfls.com.cn:9000/",
+        "totalSize": "2.09 MB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "usertype=1;%20Hm_lvt_5185e5012eaea1bd8779d7b341c2c044=1668178368,1668295391,1668382829;%20loginname=2022010745;%20loginpwd=WXloMDYwOTI1",
+                "referer": "https://zwwx.zzfls.com.cn:9000/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://zwwx.zzfls.com.cn:9000/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx/1.16.1",
+                "date": "Mon, 21 Nov 2022 02:29:13 GMT",
+                "content-type": "text/html",
+                "content-length": "2652",
+                "last-modified": "Sun, 20 Nov 2022 07:53:19 GMT",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "etag": "\"6379dcef-a5c\"",
+                "cache-control": "no-store",
+                "accept-ranges": "bytes"
+            }
+        },
+        "time": {
+            "start": "2022-11-21T02:29:12.642Z",
+            "end": "2022-11-21T02:29:30.964Z"
+        }
+    },
+    "options": {
+        "url": "https://zwwx.zzfls.com.cn:9000/",
+        "referer": "",
+        "cookies": "usertype=1;%20Hm_lvt_5185e5012eaea1bd8779d7b341c2c044=1668178368,1668295391,1668382829;%20loginname=2022010745;%20loginpwd=WXloMDYwOTI1",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [
+            "saveOriginal"
+        ],
+        "filenameGenerator": "byType"
+    }
+}
